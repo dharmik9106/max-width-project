@@ -144,46 +144,46 @@ option{
 
 .blog :hover option{
     background-color: white;
-}
-.btn1{
-    width: 25%;
-    font-family: "Josefin Sans", sans-serif;
-    height: 50px;
-    display: block;
-    background-color: #FF9F67;
-    padding: 10px 15px;
-    border: none;
-    gap: 20px;
-    color: white;
-    letter-spacing: 1px;
-    border-radius: 3px;
-    transition: all 0.5s linear;
-}
-.btn{
-    width: 20%;
-    height: 50px;
-    gap: 20px;
-    background-color:#3183ee;
-    padding: 20px 40px;
-    border: 1px solid white;
-    color: white;
-    display: flex;
-    align-items: center;
-    font-family: "Josefin Sans", sans-serif;
-    letter-spacing: 1px;
-    border-radius: 3px;
-    transition: all  0.5s linear;
-    
-}
+    }
+    .btn1{
+        width: 25%;
+        font-family: "Josefin Sans", sans-serif;
+        height: 50px;
+        display: block;
+        background-color: #FF9F67;
+        padding: 10px 15px;
+        border: none;
+        gap: 20px;
+        color: white;
+        letter-spacing: 1px;
+        border-radius: 3px;
+        transition: all 0.5s linear;
+    }
+    .btn{
+        width: 20%;
+        height: 50px;
+        gap: 20px;
+        background-color:#3183ee;
+        padding: 20px 40px;
+        border: 1px solid white;
+        color: white;
+        display: flex;
+        align-items: center;
+        font-family: "Josefin Sans", sans-serif;
+        letter-spacing: 1px;
+        border-radius: 3px;
+        transition: all  0.5s linear;
+        
+    }
 
-.btn1:hover{
-    background-color: #c264ee;
-    
-}
-.btn:hover{
-    background-color: #FF9F67;
-    
-}
+    .btn1:hover{
+        background-color: #c264ee;
+        
+    }
+    .btn:hover{
+        background-color: #FF9F67;
+        
+    }
 
 
 .bgcolor{
